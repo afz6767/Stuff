@@ -1,0 +1,38 @@
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+}
+    
+#idCard { 
+        
+    background-color: pink;
+     
+    font-weight: bold;
+
+    font-family: 'Shadows into Light';
+    
+    border: 5px solid black;
+    
+    height: 14em;
+    
+    width: 25em;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
